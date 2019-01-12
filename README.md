@@ -1,13 +1,5 @@
 # Taiga Front #
 
-[![Kaleidos Project](http://kaleidos.net/static/img/badge.png)](https://github.com/kaleidos "Kaleidos Project")
-[![Managed with Taiga.io](https://img.shields.io/badge/managed%20with-TAIGA.io-709f14.svg)](https://tree.taiga.io/project/taiga/ "Managed with Taiga.io")
-[![Build Status](https://img.shields.io/travis/taigaio/taiga-front.svg)](https://travis-ci.org/taigaio/taiga-front "Build Status")
-
-## Get the compiled version ##
-
-You can get the compiled version of this code in the
-[taiga-front-dist](http://github.com/taigaio/taiga-front-dist) repository
 
 
 ## Contribute to Taiga ##
@@ -26,18 +18,6 @@ There are many different ways to contribute to Taiga's development, just find th
 Big features are also welcome but if you want to see your contributions included in Taiga codebase we strongly recommend you start by initiating a chat though our [mailing list](http://groups.google.co.uk/d/forum/taigaio)
 
 
-#### Code of Conduct ####
-
-Help us keep the Taiga Community open and inclusive. Please read and follow our [Code of Conduct](https://github.com/taigaio/code-of-conduct/blob/master/CODE_OF_CONDUCT.md).
-
-
-#### License ####
-
-Every code patch accepted in taiga codebase is licensed under [AGPL v3.0](http://www.gnu.org/licenses/agpl-3.0.html). You must be careful to not include any code that can not be licensed under this license.
-
-Please read carefully [our license](https://github.com/taigaio/taiga-front/blob/master/LICENSE) and ask us if you have any questions as well as the [Contribution policy](https://github.com/taigaio/taiga-front/blob/master/CONTRIBUTING.md).
-
-Emoji provided free by [Twemoji](https://github.com/twitter/twemoji)
 
 #### Bug reports, enhancements and support ####
 
