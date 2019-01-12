@@ -120,7 +120,7 @@
     "gulp-class-prefix": "^1.0.1",
     "immutable": "^3.8.1",
     "intro.js": "^2.3.0",
-    "jquery": "^2.2.3",
+    "jquery": ">=3.0.0",
     "jquery.flot.tooltip": "git+https://git@github.com/krzysu/flot.tooltip.git",
     "l.js": "git+https://git@github.com/juanfran/l.js.git",
     "lodash": "^4.16.4",
